@@ -1,0 +1,34 @@
+﻿  source.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\bonnie\downloads\volumerendering-master\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: see previous definition of 'APIENTRY'
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(88): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(89): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(96): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(97): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(119): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(128): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(143): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(146): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(149): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(157): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(160): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(163): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(165): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(343): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(353): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(355): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(356): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(357): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(358): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(359): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(360): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(361): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(407): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(408): warning C4244: '/=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(414): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(415): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(416): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(417): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(335): warning C4101: 'oldCenters': unreferenced local variable
+c:\users\bonnie\downloads\volumerendering-master\volumerendering\source.cpp(335): warning C4101: 'newCenters': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'glew32.lib'
