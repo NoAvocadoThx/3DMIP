@@ -1,7 +1,8 @@
 // GLEW
 #define GLEW_STATIC //use static library
-#include <GL/glew.h> //Manages OpenGL function calls; used to access the modern OpenGL API functions
-
+//#include <GL/glew.h> //Manages OpenGL function calls; used to access the modern OpenGL API functions
+#include <GL/glew.h>
+#include <GL/freeglut.h>
 // GLFW
 #include <GLFW/glfw3.h> //Gives us a window and OpenGL context to render in, and handles keyboard input; OPENGL DOES NOT HANDLE WINDOW CREATION OR INPUT
 #include "SOIL.h"
